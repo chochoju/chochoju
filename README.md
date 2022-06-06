@@ -1,5 +1,12 @@
-### Hi there 👋
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chochoju&layout=compact)](https://github.com/chochoju/github-readme-stats)
+---
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
+---
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual studio code&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chochoju&title_color=6565DE&bg_color=0B173F&text_color=45EDF0&icon_color=C056DF&theme=radical&show_icons=true)](https://github.com/chochoju/github-readme-stats)
+---
+### Hi 
 <!--
 **chochoju/chochoju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
